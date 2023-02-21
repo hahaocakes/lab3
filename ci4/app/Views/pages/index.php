@@ -56,7 +56,7 @@
                 <span class="up">HI!</span>
                 <span class="down">I am Jasmine,</span>
             </h1>
-            <p class="header-subtitle">BSIT-MI specialized with Mobile and Internet Technology</p>            
+            <p class="header-subtitle">BS-IT specialized with Mobile and Internet Technology</p>            
 
             <a href="#about" class="btn btn-primary">Learn More</a>
         </div>              
