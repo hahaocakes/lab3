@@ -8,7 +8,11 @@ class GuestModel extends Model
 {
     protected $table = 'jatolentino_myguests';
 
-    public function getGuest()
-      
+    protected $allowedFields = ['name', 'email', 'website', 'comment', 'gender'];
+
+	
+	 public function getGuest()
+    {     
         return $this->findAll();
+    }
 }
