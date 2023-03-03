@@ -7,8 +7,12 @@
     <meta name="author" content="Devcrud">
     <title>My Personal Page</title>
     <!-- font icons -->
-    <link rel="stylesheet" href="assets/vendors/themify-icons/css/themify-icons.css">
+    
+    <link rel = "stylesheet" type = "text/css" 
+   href = <?php echo base_url('assets/vendors/themify-icons/css/themify-icons.css'); ?>>
     <!-- Bootstrap + Meyawo main styles -->
-	<link rel="stylesheet" href="assets/css/meyawo.css">
+    
+    <link rel = "stylesheet" type = "text/css" 
+   href = <?php echo base_url('assets/css/meyawo.css'); ?>>
 </head>
 <body data-spy="scroll" data-target=".navbar" data-offset="40" id="home">
