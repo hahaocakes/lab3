@@ -12,10 +12,10 @@
                 <li class="item">
                     <a class="link" href="#service">Sources</a>
                 </li>
-                <!--<li class="item"> 
+                <li class="item"> 
                     <a class="link" href="#testmonial">Testmonial</a>
                 </li>
-                <li class="item">
+                <!-- <li class="item">
                     <a class="link" href="#blog">Blog</a>
                 </li>
                 <li class="item">
