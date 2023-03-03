@@ -13,7 +13,10 @@
                     <a class="link" href="#service">Sources</a>
                 </li>
                 <li class="item"> 
-                    <a class="link" href="#testmonial">Testmonial</a>
+                    <a class="link" href="guest">Register Guest</a>
+                </li>
+                <li class="item"> 
+                    <a class="link" href="news">News</a>
                 </li>
                 <!-- <li class="item">
                     <a class="link" href="#blog">Blog</a>

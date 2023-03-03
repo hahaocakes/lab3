@@ -23,3 +23,5 @@
     <p>Unable to find any guest for you.</p>
 
 <?php endif ?>
+
+<a href="guest/create" class="btn btn-primary">Register</a>

@@ -21,6 +21,6 @@
     <p>Unable to find any news for you.</p>
 
 <?php endif ?>
-
+<a href="news/create" class="btn btn-primary">Create News</a>
 </div>
 
