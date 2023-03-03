@@ -1,5 +1,5 @@
 
-<div class="section">
+<div class="content_section">
 <?= session()->getFlashdata('error') ?>
 <?= validation_list_errors() ?>
 
